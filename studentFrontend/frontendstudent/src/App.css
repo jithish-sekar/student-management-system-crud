@@ -1,0 +1,70 @@
+
+.container{
+  background-color: #383838;
+  box-shadow: 0 0 25px rgb(161, 159, 159);
+  display: flex;
+  border-radius: 1rem;
+  border: .1rem solid #1b1b1b;
+  width: 100%;
+  color: aliceblue;
+  font-size: 1.4rem;
+  font-family: 'Exo 2', sans-serif;
+
+}
+.formDetails{
+  padding: 1rem;
+  width:35%;
+  margin-right: 5rem;
+}
+.csvForm{
+  margin-top: 1.5rem;
+}
+.infoDetails{
+  width: 75%;
+  padding: 1rem;
+}
+.header{
+  margin-bottom: 3rem;
+  color: #ED9220;
+}
+.button{
+  background-color: #ED9220;
+  border: #ED9220 .5rem solid;
+  border-radius: .3rem;
+  font-size: 1rem;
+  color: aliceblue;
+}
+.button:hover{
+  border: #fa8900 .5rem solid;
+  background-color: #fa8900;
+}
+.tableRow{
+  color: aliceblue;
+  font-size: 1.2rem;
+}
+.tableHead{
+  color: #acacac;
+}
+.studentImage{
+  height:7rem;
+  display: flex;
+ }
+ .imageContainer{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 1rem;
+ }
+ .imageContainer h3{
+   font-family: 'Exo 2', sans-serif;
+   color: #ED9220;
+   padding: 2rem;
+   border-radius: 1rem;
+   font-size: 2.5rem;
+ }
+ .mainContent{
+   background:#f2f2f2;
+ }
+ .inputFile{
+   margin-bottom: 2rem;
+ }
